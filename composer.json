@@ -1,6 +1,7 @@
 {
     "name": "cal/calculator",
     "description": "first package",
+    "license": "propietary",
     "autoload": {
         "psr-4": {
             "Cal\\Calculator\\": "src/"
